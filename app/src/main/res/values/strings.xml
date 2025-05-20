@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Recover Beta</string>
+    <string name="scanDevice">Sensores</string>
+    <string name="search_hint">Busque por ID o nombre...</string>
+    <string name="connectingTo">Conectando a</string>
+
+    <string name="selectDates">Seleccionar fechas</string>
+    <string name="waitFor">Espere...</string>
+
+    <string name="tempMin">Temperatura mínima:</string>
+    <string name="tempMax">Temperatura máxima:</string>
+    <string name="tempAvg">Temperatura promedio:</string>
+    <string name="startDate">Fecha inicio:</string>
+    <string name="endDate">Fecha término:</string>
+
+    <string name="emptyPlaceholder">--</string>
+
+    <string name="sensorsList">Lista de sensores</string>
+    <string name="dwnldPng">Descargar\nimagen</string>
+    <string name="dwnldExcel">Descargar\nExcel</string>
+    <string name="upldData">Subir\ndatos</string>
+
+    <string name="sendingData">Enviando datos</string>
+    <string name="successData">Envío exitoso</string>
+    <string name="failedData">Error de envio</string>
+
+    <string name="downloadingData">Descargando datos</string>
+    <string name="successDownload">Descarga exitosa</string>
+    <string name="failedDownload">Error de descarga</string>
+
+    <string name="permsNeeded">Se requieren los permisos para continuar.</string>
+    <string name="allowSettings">Acepte los permisos en Ajustes.</string>
+</resources>
